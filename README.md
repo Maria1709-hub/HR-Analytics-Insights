@@ -16,10 +16,11 @@ The HR professional, Pinali, faced challenges in analyzing attendance data to an
 The dataset used in this project was an attendance sheet for 2022, covering the months of April, May, and June. It was provided in Excel format and contained vast and unstructured data spread across multiple worksheets. The dataset was downloaded using a link provided in the tutorial video.
 
 ### Tools and Techniques Used
-1. **Power BI:** Used for data import, transformation, and visualization.
-2. **Power Query:** Employed to clean and structure the raw data for analysis.
-3. **DAX (Data Analysis Expressions):** Utilized to create custom measures for deeper insights.
-4. **Visualizations:** Included tables, pie charts, graphs, and slicers to represent insights effectively.
+1. **Ms Excel:** Used for storing the datas.
+2. **Power BI:** Used for data import, transformation, and visualization.
+3. **Power Query:** Employed to clean and structure the raw data for analysis.
+4. **DAX (Data Analysis Expressions):** Utilized to create custom measures for deeper insights.
+5. **Visualizations:** Included tables, pie charts, graphs, and slicers to represent insights effectively.
 
 ### Methodology
 1. **Data Import and Cleaning:**
