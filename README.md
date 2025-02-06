@@ -15,6 +15,8 @@ The HR professional, Pinali, faced challenges in analyzing attendance data to an
 ### Dataset Details
 The dataset used in this project was an attendance sheet for 2022, covering the months of April, May, and June. It was provided in Excel format and contained vast and unstructured data spread across multiple worksheets. The dataset was downloaded using a link provided in the tutorial video.
 
+https://codebasics.io/resources/resume-project-data-analytics
+
 ### Tools and Techniques Used
 1. **Ms Excel:** Used for storing the datas.
 2. **Power BI:** Used for data import, transformation, and visualization.
